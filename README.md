@@ -19,10 +19,6 @@ The site was previously hosted on Heroku, but the deployment no longer works sin
 
 Clone the project
 
-```bash
-  git clone https://github.com/TamannaVerma99/LetsChat
-```
-
 Go to the project directory
 
 ```bash
